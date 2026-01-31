@@ -1,0 +1,19 @@
+{
+  "name": "com.isgf.unity-aitoolkit",
+  "version": "1.0.0",
+  "displayName": "Unity AI Toolkit",
+  "description": "A comprehensive AI toolkit for Unity developers",
+  "unity": "2021.3",
+  "dependencies": {},
+  "keywords": ["ai", "machine-learning", "unity", "toolkit"],
+  "author": {
+    "name": "isGf",
+    "email": "your@email.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isGf/Unity-AIToolkit.git"
+  },
+  "license": "Apache-2.0",
+  "documentationUrl": "https://github.com/isGf/Unity-AIToolkit#readme"
+}
