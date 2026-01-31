@@ -1,6 +1,8 @@
-# HAWKAIToolkit - Unity AI 工具包
+# Unity-AIToolkit - 工具包
 
-HAWKAIToolkit 是一个用于在 Unity 中集成各种 AI 服务（如 OpenAI, Ollama）的框架。它提供了简单易用的 API，让你可以轻松地在游戏中实现聊天、流式输出和图像理解等功能。
+Unity-AIToolkit 是一个用于在 Unity 中集成各种 AI 服务（如 OpenAI, Ollama）的框架。它提供了简单易用的 API，让你可以轻松地在游戏中实现聊天、流式输出和图像理解等功能。
+
+此项目创建于 `Unity2022.3.16f1c1`
 
 目录
 
@@ -56,3 +58,12 @@ HAWKAIToolkit 是一个用于在 Unity 中集成各种 AI 服务（如 OpenAI, O
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
+
+
+## 其他
+
+如果您觉得这个项目对您有帮助，欢迎打赏一根`斯默克`以支持继续维护和更新~
+
+
+
+如需进一步交流和支持，欢迎加入QQ群 437368211
