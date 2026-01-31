@@ -1,4 +1,4 @@
-HAWKAIToolkit - Unity AI 工具包
+# HAWKAIToolkit - Unity AI 工具包
 
 HAWKAIToolkit 是一个用于在 Unity 中集成各种 AI 服务（如 OpenAI, Ollama）的框架。它提供了简单易用的 API，让你可以轻松地在游戏中实现聊天、流式输出和图像理解等功能。
 
@@ -11,7 +11,7 @@ HAWKAIToolkit 是一个用于在 Unity 中集成各种 AI 服务（如 OpenAI, O
 
 
 
-# 项目结构
+## 项目结构
 
 以下是项目的目录结构，帮助你快速了解代码的组织方式：
 
@@ -21,7 +21,7 @@ HAWKAIToolkit 是一个用于在 Unity 中集成各种 AI 服务（如 OpenAI, O
 *   **Runtime**: 在游戏运行时需要的基础功能。
 *   **Samples**: 示例场景，展示如何使用工具包。
 
-# 快速入门
+## 快速入门
 
 核心功能解释，帮助你快速入门：
 
@@ -44,15 +44,15 @@ HAWKAIToolkit 是一个用于在 Unity 中集成各种 AI 服务（如 OpenAI, O
    - Model：模型ID，即模型名称，需严格填入ID
    - Timeout：设置 UnityWebRequest 网络请求超时秒数
 
-4. 使用 `AISimpleHelper`、`AIStreamHelper` 或 `AIVisionHelper` 来调用 AI 服务。
+4. 使用 `AISimpleHelper` 或 `AIVisionHelper` 来调用 AI 服务。
 
-# 示例场景
+## 示例场景
 
 提供的两个示例场景
 
-1. `01 SimpleAIChat`：基础 AI 流式和非流式调用，含输出到 UI 和 Console 示例
-2. `02 VisionAIChat`：图像理解 AI 流式和非流式调用，在基础示例上新增了包含 UGUI 运行示例
+- `01 SimpleAIChat`：基础 AI 流式和非流式调用，含输出到 UI 和 Console 示例
+- `02 VisionAIChat`：图像理解 AI 流式和非流式调用，在基础示例上新增了包含 UGUI 运行示例
 
-# 贡献
+## 贡献
 
 欢迎提交 Issue 和 Pull Request！
