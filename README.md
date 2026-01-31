@@ -29,11 +29,11 @@ HAWKAIToolkit 是一个用于在 Unity 中集成各种 AI 服务（如 OpenAI, O
 
 2. 创建一个 Provider：`Assets - Create - AITookit - AIProvider`
 
-   ![项目截图](./Assets/Unity-AIToolkit/docs/01%20创建Provider.png)
+   ![项目截图](./docs/01%20创建Provider.png)
 
 3. 已创建的 AIProvider
 
-   ![项目截图](./Assets/Unity-AIToolkit/docs/02%20Provider%20介绍.png)
+   ![项目截图](./docs/02%20Provider%20介绍.png)
    
    - 选择厂商预设：预设了国内常用的AI服务商
       - 支持Qwen（百炼）、DeepSeek、Zhipu AI（智谱清言）、Moonshot（Kimi）
