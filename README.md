@@ -40,7 +40,6 @@ Unity-AIToolkit 是一个用于在 Unity 中集成各种 AI 服务（如 OpenAI,
    - 选择厂商预设：预设了国内常用的AI服务商
       - 支持Qwen（百炼）、DeepSeek、Zhipu AI（智谱清言）、Moonshot（Kimi）
       - 基于 OpenAI 格式的都可选 OpenAI 接入
-      - 基于 OpenAI 格式的都可选 OpenAI 接入
    - BaseURL：模型请求地址，如选预设，此项会自动更新
    - APIKey：模型服务商的APIKey（如有），点击 `申请 API Key` 自动跳转申请网页
    - Model：模型ID，即模型名称，需严格填入ID
