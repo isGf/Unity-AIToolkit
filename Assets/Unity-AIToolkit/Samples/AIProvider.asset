@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64180792974228e44ab0be772aa20b67, type: 3}
   m_Name: AIProvider
   m_EditorClassIdentifier: 
-  preset: 5
-  baseURL: http://localhost:11434/v1/chat/completions
-  apiKey: 
-  model: qwen2.5:1.5b
+  preset: 3
+  baseURL: https://open.bigmodel.cn/api/paas/v4/chat/completions
+  apiKey: 22efd4aca01849968f7cf9eee59f4ad8.j7ln9YoKNtyvdHGb
+  model: GLM-4.7-Flash
   timeout: 30

@@ -32,10 +32,10 @@ public class AIProviderEditor : Editor
                         Application.OpenURL("https://platform.deepseek.com/api_keys");
                         break;
                     case ProviderPreset.ZhipuAI:
-                        Application.OpenURL("https://open.bigmodel.cn/usercenter/keys");
+                        Application.OpenURL("https://open.bigmodel.cn/usercenter/proj-mgmt/apikeys");
                         break;
                     case ProviderPreset.Moonshot:
-                        Application.OpenURL("https://platform.moonshot.cn/api-keys");
+                        Application.OpenURL("https://platform.moonshot.cn/console/api-keys");
                         break;
                     case ProviderPreset.Qwen:
                         Application.OpenURL("https://bailian.console.aliyun.com/cn-beijing/?tab=model#/api-key");
