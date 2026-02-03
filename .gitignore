@@ -26,7 +26,6 @@
 
 # Visual Studio
 .vs/
-.vscode/
 
 # OS
 .DS_Store
